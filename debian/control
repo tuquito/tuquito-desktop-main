@@ -7,7 +7,7 @@ Standards-Version: 3.8.1
 
 Package: tuquito-desktop-main
 Architecture: all
-Depends: tuquito-desktop-base, banshee, cheese, emesene, gimp, gnome-do, gnome-do-plugins (>= 0.8.2), gnome-do-docklets, gnome-phone-manager, openoffice.org-base-core, openoffice.org-calc, openoffice.org-common, openoffice.org-core, openoffice.org-draw, openoffice.org-emailmerge, openoffice.org-gnome, openoffice.org-gtk, openoffice.org-impress, openoffice.org-math, openoffice.org-style-human, openoffice.org-writer, openoffice.org-l10n-es, usb-creator, vlc, mozilla-plugin-vlc, pitivi
+Depends: tuquito-desktop-base, banshee, cheese, emesene, gimp, gnome-do, gnome-do-plugins (>= 0.8.2), gnome-do-docklets, gnome-phone-manager, gtk-recordmydesktop, ndisgtk, ndiswrapper-utils-1.9, openoffice.org-base-core, openoffice.org-calc, openoffice.org-common, openoffice.org-core, openoffice.org-draw, openoffice.org-emailmerge, openoffice.org-gnome, openoffice.org-gtk, openoffice.org-impress, openoffice.org-math, openoffice.org-style-human, openoffice.org-writer, openoffice.org-l10n-es, usb-creator, vlc, mozilla-plugin-vlc, pitivi, transmission-gtk, tuquito-menu
 Description: Escritorio de Tuquito con extras
  Instala todas las aplicaciones de Tuquito para la edición main y agrega extras
  * Tuquito Team! - 2010
