@@ -1,3 +1,9 @@
+tuquito-desktop-main (4.3) maverick; urgency=low
+
+  * new depends
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 27 Oct 2010 14:05:54 -0300
+
 tuquito-desktop-main (4.2) maverick; urgency=low
 
   * new depends
