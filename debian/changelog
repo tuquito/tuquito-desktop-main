@@ -1,3 +1,9 @@
+tuquito-desktop-main (4.3-1) maverick; urgency=low
+
+  * deleted gnome-do-docklets
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 28 Oct 2010 00:27:04 -0300
+
 tuquito-desktop-main (4.3) maverick; urgency=low
 
   * new depends
