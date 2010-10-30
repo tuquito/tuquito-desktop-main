@@ -1,3 +1,9 @@
+tuquito-desktop-main (4.3-2) maverick; urgency=low
+
+  * added language support
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sat, 30 Oct 2010 02:52:13 -0300
+
 tuquito-desktop-main (4.3-1) maverick; urgency=low
 
   * deleted gnome-do-docklets
